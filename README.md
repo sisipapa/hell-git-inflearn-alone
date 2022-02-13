@@ -1,1 +1,7 @@
-# hell-git-inflearn-alone
+# hell-git-inflearn-alone 프로젝트
+
+### 기능 정리
+- 환경설정
+- 회원가입
+- 로그인
+- 글쓰기 
